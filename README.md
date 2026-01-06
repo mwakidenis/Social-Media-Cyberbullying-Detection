@@ -96,3 +96,7 @@ Contributions are welcome! Please feel free to fork the repository, make changes
 ## 📄 License
 
 This project is distributed under the MIT License. See `LICENSE` for more information.
+
+---
+## Made 🛠️ with love by  💖 by  mwakidenis
+
